@@ -46,6 +46,7 @@ jobs:
       #     echo EXCHANGE_NAME=ONLINE_STORE >> .env
       #     echo PORT=8003 >> .env
       #     cat .env
+      # fix version error
           
       - name: Generate deployment package
         run: |
