@@ -4,6 +4,7 @@ describe("Customer service", () => {
     describe("Sign in function", () => {
         // which case we are testing
         test("should user input properly", () => {});
+        // test CI work flow
         test("should response", () => {});
     });
 });
